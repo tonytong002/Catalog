@@ -1,0 +1,12 @@
+Data Transfer Object (DTO)
+Dependency Injection
+Interface
+Register
+Service Container
+Data Annotation
+No-SQL MongoDB
+dotnet add package MongoDB.Driver
+Docker Engine--the container runtime
+Docker Image -- A standalone package of software that includes everything needed to run an application
+Docker Container -- A runtime instance of a Docker image
+docker run -d --rm --name mongo -p 27017:27017 -v mongodbdata:/data/db mongo
